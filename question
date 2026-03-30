@@ -1,0 +1,105 @@
+## 🔹 1. Square of a number
+
+```python
+square = lambda x: x * x
+print(square(5))   # Output: 25
+```
+
+---
+
+## 🔹 2. Check even or odd
+
+```python
+even_odd = lambda x: "Even" if x % 2 == 0 else "Odd"
+print(even_odd(7))   # Output: Odd
+```
+
+---
+
+## 🔹 3. Find maximum of two numbers
+
+```python
+max_num = lambda a, b: a if a > b else b
+print(max_num(10, 20))   # Output: 20
+```
+
+---
+
+## 🔹 4. Add three numbers
+
+```python
+add = lambda x, y, z: x + y + z
+print(add(5, 10, 15))   # Output: 30
+```
+
+---
+
+## 🔹 5. Convert Celsius to Fahrenheit
+
+```python
+temp = lambda c: (c * 9/5) + 32
+print(temp(25))   # Output: 77.0
+```
+
+---
+
+## 🔹 6. Square all elements using map()
+
+```python
+nums = [1, 2, 3, 4]
+result = list(map(lambda x: x*x, nums))
+print(result)   # Output: [1, 4, 9, 16]
+```
+
+---
+
+## 🔹 7. Filter even numbers using filter()
+
+```python
+nums = [10, 15, 20, 25, 30]
+result = list(filter(lambda x: x % 2 == 0, nums))
+print(result)   # Output: [10, 20, 30]
+```
+
+---
+
+## 🔹 8. Sort list of tuples by second value
+
+```python
+data = [(1,3), (2,1), (4,2)]
+result = sorted(data, key=lambda x: x[1])
+print(result)   # Output: [(2, 1), (4, 2), (1, 3)]
+```
+
+---
+
+## 🔹 9. Reverse a string
+
+```python
+reverse = lambda s: s[::-1]
+print(reverse("hello"))   # Output: olleh
+```
+
+---
+
+## 🔹 10. Multiply all elements using reduce()
+
+```python
+from functools import reduce
+
+nums = [1, 2, 3, 4]
+result = reduce(lambda x, y: x * y, nums)
+print(result)   # Output: 24
+```
+
+---
+
+## 🔥 Bonus (Good for viva)
+
+### Positive / Negative / Zero
+
+```python
+check = lambda x: "Positive" if x > 0 else ("Negative" if x < 0 else "Zero")
+print(check(-5))   # Output: Negative
+```
+

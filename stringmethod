@@ -1,0 +1,71 @@
+## 🔹 1. Case Conversion Methods
+
+| Method         | Description                           | Example                                   |
+| -------------- | ------------------------------------- | ----------------------------------------- |
+| `upper()`      | Converts string to uppercase          | `"hello".upper()` → `"HELLO"`             |
+| `lower()`      | Converts string to lowercase          | `"HELLO".lower()` → `"hello"`             |
+| `title()`      | Capitalizes first letter of each word | `"hello world".title()` → `"Hello World"` |
+| `capitalize()` | Capitalizes first letter only         | `"hello".capitalize()` → `"Hello"`        |
+
+---
+
+## 🔹 2. Checking Methods
+
+| Method      | Description                          | Example                       |
+| ----------- | ------------------------------------ | ----------------------------- |
+| `isalpha()` | Checks if all characters are letters | `"abc".isalpha()` → `True`    |
+| `isdigit()` | Checks if all characters are digits  | `"123".isdigit()` → `True`    |
+| `isalnum()` | Checks if letters + numbers          | `"abc123".isalnum()` → `True` |
+| `islower()` | Checks if lowercase                  | `"abc".islower()` → `True`    |
+| `isupper()` | Checks if uppercase                  | `"ABC".isupper()` → `True`    |
+
+---
+
+## 🔹 3. Search & Replace Methods
+
+| Method      | Description                                 | Example                                |
+| ----------- | ------------------------------------------- | -------------------------------------- |
+| `find()`    | Returns index of first match                | `"hello".find("e")` → `1`              |
+| `index()`   | Same as find (but gives error if not found) | `"hello".index("e")` → `1`             |
+| `replace()` | Replaces text                               | `"hello".replace("l","x")` → `"hexxo"` |
+| `count()`   | Counts occurrences                          | `"hello".count("l")` → `2`             |
+
+---
+
+## 🔹 4. String Formatting / Joining
+
+| Method     | Description              | Example                               |
+| ---------- | ------------------------ | ------------------------------------- |
+| `join()`   | Joins list into a string | `" ".join(["hi","all"])` → `"hi all"` |
+| `format()` | Formats string           | `"My name is {}".format("Deepak")`    |
+
+---
+
+## 🔹 5. Trim (Remove Spaces)
+
+| Method     | Description                    | Example                   |
+| ---------- | ------------------------------ | ------------------------- |
+| `strip()`  | Removes spaces from both sides | `" hi ".strip()` → `"hi"` |
+| `lstrip()` | Removes spaces from left       | `" hi".lstrip()`          |
+| `rstrip()` | Removes spaces from right      | `"hi ".rstrip()`          |
+
+---
+
+## 🔹 6. Split Method
+
+| Method    | Description               | Example                                |
+| --------- | ------------------------- | -------------------------------------- |
+| `split()` | Converts string into list | `"a,b,c".split(",")` → `['a','b','c']` |
+
+---
+
+## 🔹 Example Program
+
+```python
+text = " hello world "
+
+print(text.strip())        # remove spaces
+print(text.upper())        # uppercase
+print(text.replace("world", "Python"))
+print(text.split())        # convert to list
+```
