@@ -1,15 +1,12 @@
-fruit1 = "apple"
-fruit2 = "banana"
-fruit3 = "mango"
+# if elif and else conditions
 
-apple = 80
-banana= 60
-mango = 200
+x= 5
 
-fruit = input("Which fruit you want (apple, mango, banana)")
-money = int( input("Give me money"))
-
-if fruit1==fruit:
-    qty=int(input("qty : "))
-    total = money - (qty*apple)  
-    print( qty, "/kg apple. and your remaning amount ", total)
+if x == 9:
+    print("Hello")
+elif x ==6:
+    print("bye")
+elif x == 0:
+    print('hi')
+else:
+    print('i am sy bro')
