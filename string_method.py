@@ -1,11 +1,14 @@
-name = 'dEEpak'
-
-print( name.upper())
-print( name.lower())
-
-print( "hello my name is deepak".title())
-print( "hello my name is deepak".capitalize())
+print('hello my name is ayush.'.find('rohit'))
+print('hello my name is ayush.'.index('name'))
+print('hello my name is ayush.'.replace('hello',"Hey"))
+print('hello my name is ayush.'.count("e"))
+print("My name is {}".format("Deepak"))
 
 
 
-print( "er8 sdamd".isidentifier())
+
+nums = [25,45,85]
+fruits = ['apple','banana','mango']
+
+print(" - ".join(fruits))
+print(nums[0])

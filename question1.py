@@ -1,13 +1,12 @@
-# user = int(input("Enter your Age : "))
+# if elif and else conditions
 
-# if user > 18:
-#     print("You can drive")
-# else:
-#     print("You Can't Drive")
+x= 5
 
-student = int(input("enter your number: "))
-            
-if student > 27:
-    print("pass")
+if x == 9:
+    print("Hello")
+elif x ==6:
+    print("bye")
+elif x == 0:
+    print('hi')
 else:
-    print("fail")
+    print('i am sy bro')
