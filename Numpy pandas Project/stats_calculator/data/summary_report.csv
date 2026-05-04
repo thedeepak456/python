@@ -1,0 +1,4 @@
+label,count,mean,median,std_dev,variance,min,max,range,q1,q3,iqr,skewness,outlier_count
+Student Exam Scores,100,63.44,63.1,13.56,183.78,25.7,92.8,67.1,56.0,71.07,15.07,-0.18,1
+Daily Temperature (°C),100,25.79,26.05,3.48,12.11,17.9,33.6,15.7,23.2,28.02,4.82,-0.06,0
+Monthly Sales Revenue (₹),100,80681.52,67266.5,46191.42,2133647368.11,22525.0,269290.0,246765.0,50112.25,91811.75,41699.5,1.6,10
