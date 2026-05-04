@@ -1,5 +1,7 @@
-import numpy as np
 
-arr1 = np.arange(100)
-print(arr1)
 
+for x in range(5):
+    arr = ['*']
+    arr1 = arr *5
+    arr1.pop()
+    print(arr1)
