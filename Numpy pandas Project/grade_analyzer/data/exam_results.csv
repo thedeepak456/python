@@ -1,0 +1,101 @@
+exam_id,student_id,exam_name,term,subject,max_marks,marks_obtained,percentage,grade,result
+1,98,Final Exam,Term 3,English,100,61.9,61.9,B,Pass
+2,69,Unit Test 2,Term 1,Science,100,63.8,63.8,B,Pass
+3,19,Unit Test 1,Term 1,Computer,100,56.0,56.0,C,Pass
+4,44,Unit Test 2,Term 1,History,50,32.7,65.4,B,Pass
+5,99,Mid Term,Term 2,History,50,22.4,44.8,D,Pass
+6,18,Unit Test 2,Term 1,Science,50,31.4,62.8,B,Pass
+7,70,Mid Term,Term 2,Computer,50,24.5,49.0,D,Pass
+8,8,Unit Test 3,Term 2,Computer,50,20.3,40.6,D,Pass
+9,80,Final Exam,Term 3,English,50,31.6,63.2,B,Pass
+10,25,Unit Test 2,Term 1,English,50,26.8,53.6,C,Pass
+11,94,Unit Test 2,Term 1,Math,50,48.7,97.4,A+,Pass
+12,35,Unit Test 1,Term 1,History,50,45.6,91.2,A+,Pass
+13,88,Unit Test 2,Term 1,Math,100,88.3,88.3,A,Pass
+14,93,Final Exam,Term 3,Science,50,42.9,85.8,A,Pass
+15,82,Mid Term,Term 2,Science,80,57.8,72.25,B+,Pass
+16,34,Final Exam,Term 3,English,80,53.4,66.75,B,Pass
+17,29,Unit Test 2,Term 1,History,100,50.2,50.2,C,Pass
+18,13,Mid Term,Term 2,History,50,34.2,68.4,B,Pass
+19,90,Mid Term,Term 2,History,50,26.0,52.0,C,Pass
+20,75,Unit Test 2,Term 1,English,50,37.9,75.8,B+,Pass
+21,17,Unit Test 2,Term 1,Math,50,25.2,50.4,C,Pass
+22,34,Unit Test 3,Term 2,Math,50,34.2,68.4,B,Pass
+23,82,Unit Test 2,Term 1,Math,80,63.7,79.62,B+,Pass
+24,25,Final Exam,Term 3,History,80,56.2,70.25,B+,Pass
+25,1,Unit Test 3,Term 2,English,50,36.4,72.8,B+,Pass
+26,93,Mid Term,Term 2,Science,100,63.0,63.0,B,Pass
+27,78,Final Exam,Term 3,Computer,80,47.0,58.75,C,Pass
+28,74,Final Exam,Term 3,Computer,100,66.1,66.1,B,Pass
+29,91,Final Exam,Term 3,Science,50,32.2,64.4,B,Pass
+30,48,Final Exam,Term 3,History,100,58.1,58.1,C,Pass
+31,76,Unit Test 2,Term 1,English,100,63.8,63.8,B,Pass
+32,23,Mid Term,Term 2,Computer,100,70.5,70.5,B+,Pass
+33,78,Unit Test 2,Term 1,Math,100,44.9,44.9,D,Pass
+34,56,Unit Test 2,Term 1,English,50,34.5,69.0,B,Pass
+35,34,Mid Term,Term 2,English,100,79.8,79.8,B+,Pass
+36,70,Mid Term,Term 2,History,100,45.2,45.2,D,Pass
+37,46,Unit Test 3,Term 2,Science,100,69.9,69.9,B,Pass
+38,32,Unit Test 3,Term 2,Science,100,77.3,77.3,B+,Pass
+39,47,Mid Term,Term 2,Science,100,56.1,56.1,C,Pass
+40,9,Final Exam,Term 3,English,80,70.0,87.5,A,Pass
+41,1,Unit Test 2,Term 1,Math,100,58.6,58.6,C,Pass
+42,92,Unit Test 2,Term 1,Math,80,64.3,80.38,A,Pass
+43,9,Unit Test 1,Term 1,History,50,36.4,72.8,B+,Pass
+44,4,Mid Term,Term 2,Computer,100,72.2,72.2,B+,Pass
+45,31,Unit Test 3,Term 2,History,80,68.6,85.75,A,Pass
+46,39,Final Exam,Term 3,History,100,45.5,45.5,D,Pass
+47,43,Mid Term,Term 2,English,100,48.7,48.7,D,Pass
+48,24,Unit Test 2,Term 1,English,100,57.0,57.0,C,Pass
+49,66,Unit Test 1,Term 1,Math,80,60.0,75.0,B+,Pass
+50,11,Unit Test 1,Term 1,Science,50,32.8,65.6,B,Pass
+51,81,Mid Term,Term 2,History,100,62.2,62.2,B,Pass
+52,87,Mid Term,Term 2,Computer,50,30.6,61.2,B,Pass
+53,31,Unit Test 3,Term 2,Computer,50,29.8,59.6,C,Pass
+54,7,Mid Term,Term 2,History,50,45.3,90.6,A+,Pass
+55,20,Unit Test 1,Term 1,English,100,50.9,50.9,C,Pass
+56,4,Unit Test 1,Term 1,History,80,42.6,53.25,C,Pass
+57,25,Final Exam,Term 3,English,50,23.4,46.8,D,Pass
+58,49,Unit Test 2,Term 1,Science,80,48.4,60.5,B,Pass
+59,49,Mid Term,Term 2,Math,50,33.6,67.2,B,Pass
+60,44,Unit Test 2,Term 1,Science,80,74.8,93.5,A+,Pass
+61,1,Unit Test 1,Term 1,Science,100,100.0,100.0,A+,Pass
+62,96,Unit Test 3,Term 2,History,100,55.8,55.8,C,Pass
+63,62,Unit Test 1,Term 1,History,50,26.6,53.2,C,Pass
+64,62,Final Exam,Term 3,History,80,57.7,72.12,B+,Pass
+65,32,Unit Test 2,Term 1,History,100,56.2,56.2,C,Pass
+66,51,Mid Term,Term 2,History,80,50.6,63.25,B,Pass
+67,94,Mid Term,Term 2,Math,50,50.0,100.0,A+,Pass
+68,67,Unit Test 2,Term 1,Math,50,28.3,56.6,C,Pass
+69,52,Unit Test 2,Term 1,Computer,100,73.2,73.2,B+,Pass
+70,23,Unit Test 3,Term 2,Math,80,60.2,75.25,B+,Pass
+71,62,Unit Test 1,Term 1,Computer,100,54.7,54.7,C,Pass
+72,44,Unit Test 2,Term 1,Math,50,32.8,65.6,B,Pass
+73,10,Unit Test 2,Term 1,Science,50,35.9,71.8,B+,Pass
+74,85,Mid Term,Term 2,Math,50,30.5,61.0,B,Pass
+75,51,Unit Test 2,Term 1,History,50,20.3,40.6,D,Pass
+76,43,Mid Term,Term 2,Science,50,28.7,57.4,C,Pass
+77,50,Unit Test 3,Term 2,History,80,40.4,50.5,C,Pass
+78,39,Final Exam,Term 3,Computer,80,65.9,82.38,A,Pass
+79,95,Unit Test 3,Term 2,English,50,13.0,26.0,F,Fail
+80,57,Unit Test 2,Term 1,Computer,80,15.9,19.88,F,Fail
+81,23,Final Exam,Term 3,English,50,33.3,66.6,B,Pass
+82,21,Final Exam,Term 3,History,80,62.9,78.62,B+,Pass
+83,78,Final Exam,Term 3,Computer,50,38.4,76.8,B+,Pass
+84,48,Final Exam,Term 3,English,100,66.2,66.2,B,Pass
+85,98,Mid Term,Term 2,Computer,50,29.8,59.6,C,Pass
+86,35,Mid Term,Term 2,History,100,62.1,62.1,B,Pass
+87,8,Unit Test 1,Term 1,History,100,70.7,70.7,B+,Pass
+88,86,Final Exam,Term 3,Computer,50,20.5,41.0,D,Pass
+89,24,Unit Test 1,Term 1,History,80,58.9,73.62,B+,Pass
+90,46,Final Exam,Term 3,History,80,50.8,63.5,B,Pass
+91,96,Mid Term,Term 2,Computer,100,78.6,78.6,B+,Pass
+92,85,Unit Test 1,Term 1,English,100,64.0,64.0,B,Pass
+93,82,Unit Test 1,Term 1,Science,100,65.6,65.6,B,Pass
+94,38,Final Exam,Term 3,Math,50,31.0,62.0,B,Pass
+95,70,Unit Test 1,Term 1,Computer,80,65.2,81.5,A,Pass
+96,50,Unit Test 2,Term 1,Computer,100,77.3,77.3,B+,Pass
+97,92,Unit Test 2,Term 1,Computer,100,46.1,46.1,D,Pass
+98,5,Final Exam,Term 3,Computer,50,21.1,42.2,D,Pass
+99,50,Final Exam,Term 3,English,50,45.6,91.2,A+,Pass
+100,78,Unit Test 1,Term 1,History,100,64.8,64.8,B,Pass
