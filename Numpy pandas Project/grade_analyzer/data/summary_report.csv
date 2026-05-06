@@ -1,0 +1,5 @@
+label,count,mean,median,std_dev,min,max,outlier_count
+Student Overall Average Score,100,69.21,69.03,6.88,51.84,92.38,1
+Exam Percentage Scores,100,65.0,64.2,14.91,19.88,100.0,4
+Class Average Scores,100,65.16,66.23,12.66,30.72,95.3,1
+Pass Percentage (%),100,70.42,69.5,14.82,35.3,100.0,0

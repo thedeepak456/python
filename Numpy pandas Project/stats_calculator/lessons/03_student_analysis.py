@@ -20,7 +20,7 @@ print("\n📌 PART 1 : CSV File Load Karna\n")
 
 # pd.read_csv() — CSV file ko Pandas DataFrame mein load karta hai
 # DataFrame = Excel sheet ki tarah hota hai (rows + columns)
-df = pd.read_csv("data/student_scores.csv")
+df = pd.read_csv(r"C:\Users\Deepak Rastogi\Documents\python\Numpy pandas Project\stats_calculator\data\student_scores.csv")
 
 # Pehli 5 rows dekho — hamesha pehle data dekho!
 print("Pehli 5 rows (df.head()):")
