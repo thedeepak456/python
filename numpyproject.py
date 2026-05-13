@@ -144,7 +144,7 @@ total_sales = (
 print("=" * 60)
 print("SECTION A — Descriptive Statistics")
 print("=" * 60)
-
+# test
 
 # ---------------------------------------------------------
 # A-i. Mean, Median, Standard Deviation
